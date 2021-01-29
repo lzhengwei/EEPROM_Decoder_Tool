@@ -1,0 +1,10 @@
+C:\Users\102819\source\repos\EEPROM_Decoder_Tool\EEPROM_Decoder_Tool\bin\Debug\EEPROM_Decoder_Tool.exe.config
+C:\Users\102819\source\repos\EEPROM_Decoder_Tool\EEPROM_Decoder_Tool\bin\Debug\EEPROM_Decoder_Tool.exe
+C:\Users\102819\source\repos\EEPROM_Decoder_Tool\EEPROM_Decoder_Tool\bin\Debug\EEPROM_Decoder_Tool.pdb
+C:\Users\102819\source\repos\EEPROM_Decoder_Tool\EEPROM_Decoder_Tool\obj\Debug\EEPROM_Decoder_Tool.csprojAssemblyReference.cache
+C:\Users\102819\source\repos\EEPROM_Decoder_Tool\EEPROM_Decoder_Tool\obj\Debug\EEPROM_Decoder_Tool.Form1.resources
+C:\Users\102819\source\repos\EEPROM_Decoder_Tool\EEPROM_Decoder_Tool\obj\Debug\EEPROM_Decoder_Tool.Properties.Resources.resources
+C:\Users\102819\source\repos\EEPROM_Decoder_Tool\EEPROM_Decoder_Tool\obj\Debug\EEPROM_Decoder_Tool.csproj.GenerateResource.cache
+C:\Users\102819\source\repos\EEPROM_Decoder_Tool\EEPROM_Decoder_Tool\obj\Debug\EEPROM_Decoder_Tool.csproj.CoreCompileInputs.cache
+C:\Users\102819\source\repos\EEPROM_Decoder_Tool\EEPROM_Decoder_Tool\obj\Debug\EEPROM_Decoder_Tool.exe
+C:\Users\102819\source\repos\EEPROM_Decoder_Tool\EEPROM_Decoder_Tool\obj\Debug\EEPROM_Decoder_Tool.pdb
